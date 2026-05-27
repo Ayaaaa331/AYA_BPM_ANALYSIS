@@ -1,0 +1,3 @@
+process,total_cases,total_events,unique_activities,average_duration_days,median_duration_days,max_duration_days,rejected_cases,rejection_rate_percent,final_approved_cases,final_approval_rate_percent,payment_handled_cases,payment_completion_rate_percent,number_of_variants,cases_with_rework,cases_with_missing_step_issue
+domestic,10500,56437,17,11.53,7.33,469.28,1301,12.39,10070,95.9,10044,95.66,99,1019,298
+international,6449,72151,34,86.46,66.06,742.0,1755,27.21,6428,99.67,6187,95.94,753,1590,448
