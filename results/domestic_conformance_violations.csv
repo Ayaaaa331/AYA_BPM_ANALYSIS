@@ -1,0 +1,6 @@
+case_id,violation_type
+declaration 87660,payment_requested_but_not_handled
+declaration 90815,payment_requested_before_declaration_final_approval
+declaration 91936,payment_requested_but_not_handled
+declaration 93320,payment_requested_but_not_handled
+declaration 95149,payment_requested_before_declaration_final_approval

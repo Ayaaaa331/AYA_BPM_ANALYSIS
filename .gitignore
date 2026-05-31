@@ -1,2 +1,7 @@
 .venv/
+.venv312/
 __pycache__/
+node_modules/
+.DS_Store
+tmp/
+results_backup_*/
